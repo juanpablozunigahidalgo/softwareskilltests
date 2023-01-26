@@ -1,11 +1,19 @@
-This is a compilation of the test I made in the website 
+Hello!
 
-https://futureskill.com/exercises
+Here is my answer for the test. I will apply such answer into the Software Skills console. 
 
-Here I write the answers I made. This since I got an interview with a company E-Travelli. 
+In any case. This is a dual cycle for code to test and buy and sell. 
 
-Please feel free to analyze and reflect about the code. 
+It can not buy and sell in the same day. The buy day should be before the selling day.
 
-Have a blast. 
+It can process a random array of integers.
 
+Second attemp : 
+
+    "Test-Solved-dualcycle.tsx"
+
+
+Thanks Lillian!
+
+BR
 Juan Pablo
